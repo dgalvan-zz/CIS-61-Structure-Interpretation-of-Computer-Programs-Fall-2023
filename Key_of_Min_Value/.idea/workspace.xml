@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a33fc9d-d2b6-43d7-badb-619c78a8c464" name="Changes" comment="" />
+    <list default="true" id="1a33fc9d-d2b6-43d7-badb-619c78a8c464" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../add_this_many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../add_this_many/.idea/add_this_many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../add_this_many/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../add_this_many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../add_this_many/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../add_this_many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../add_this_many/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corn/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../double_tree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gcdq5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../is_primeq4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skip_add/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sum_digits/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2VdFbPHcwp2oEBPrL7qP9WXXcCK" />
   <component name="ProjectViewState">
@@ -17,7 +35,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
